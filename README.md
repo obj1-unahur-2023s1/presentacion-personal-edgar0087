@@ -8,4 +8,4 @@ Materias aprobadas
 * base de datos
 *  programación estructurada
 
-![foto de perfil](./assets/cv.jpg)
+![cv](./cv.jpg)
